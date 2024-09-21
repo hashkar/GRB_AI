@@ -19,5 +19,6 @@ create env and activate
 conda env create -f environment.yml
 ```
 Activate
+```
 conda activate <environment-name>
 ```
