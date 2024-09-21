@@ -6,6 +6,7 @@ Requirements: Python 3, Jupyter notebook
 
 To install the env: 
 
+```
 git clone https://github.com/hashkar/GRB_AI.git
 cd GRB_AI
 conda env create -f environment.yml
