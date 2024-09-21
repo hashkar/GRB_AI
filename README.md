@@ -1,7 +1,7 @@
-This project is for the exploration of GRB features using AI
-It is a pedagogical and research project at thesame time
+This project is for the exploration of GRB features using AI.
+It is a pedagogical and research project at the same time
 
-Requirements: Python 3, Jupyter notebook
+Requirements: Python 3, Jupyter notebook.
 
 
 To install the env: 
