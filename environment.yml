@@ -105,8 +105,22 @@ dependencies:
   - zipp=3.19.2=pyhd8ed1ab_0
   - zstd=1.5.6=hb46c0d2_0
   - pip:
+      - boto3==1.35.27
+      - botocore==1.35.27
+      - charset-normalizer==3.3.2
+      - ecdsa==0.19.0
       - et-xmlfile==1.1.0
+      - idna==3.10
+      - jmespath==1.0.1
       - openpyxl==3.1.5
+      - pyasn1==0.6.1
       - python-graphviz==0.20.3
+      - python-jose==3.3.0
+      - requests==2.32.3
+      - rsa==4.9
+      - s3transfer==0.10.2
       - seaborn==0.13.2
+      - swifttools==3.0.22
+      - tabulate==0.9.0
+      - urllib3==2.2.3
 prefix: /Users/hashkar/anaconda3/envs/GRBAI
