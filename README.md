@@ -14,7 +14,7 @@ Requirements: Python 3, Jupyter notebook.
 
 
 
-## env installation 
+## env installation for Mac
 
 Clone the repo:
 ```
