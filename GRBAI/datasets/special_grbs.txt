@@ -1,0 +1,34 @@
+GRB091127 SNs
+GRB101219B SNs
+GRB130215A SNs
+GRB130427A SNs
+GRB130702A SNs
+GRB140606B SNs
+GRB171010A SNs
+GRB190114C SNs
+GRB190829A SNs #lack of data
+GRB090618 SNp
+GRB111228A SNp
+GRB120729A SNp #lack of data
+GRB141004A SNp
+GRB200826A SNp #short GRB associated with collapsar
+GRB150101B KN
+GRB160821B KN
+GRB170817A KN
+GRB211211A KN #Maybe compct object merger or maybe collapsar
+GRB230337A KN #maybe merger
+GRB100816A Special
+GRB200826A SN #But duration of short
+GRB091024 UL #091024372 and 091024380 
+GRB130925A UL #130925164 and 130925173
+GRB200415A M
+
+
+Notes: except for the GRB 180511437 onthe t-SNE map and GRB 180511437 and GRB 131128629 onthe UMAP map, other short GRBs-II are clustered near GRB100816A and GRB 200826A. There are 6 short GRBs-II nearGRB 200826A on the t-SNE map, namely GRB 120323A,GRB 140209A, GRB 150819B, GRB 170206A, GRB 171126Aand GRB 180703B. For the UMAP result, GRB 150819B isclassified as short GRBs-I and remaining 5 GRBs are alsonear GRB 200826A. We find that the spectral lags of GRB140209A and GRB 180703B (Norris et al. 2014; Pal’Shin et al.2018) are similar to GRB 200826A and obviously consistentwith the traditional LGRBs
+
+
+Notes: GRB 180618A is considered to be a SGRB with ex-MNRAS 000, 1–11 (2023)8 Zhu et al.tended emission (Hamburg et al. 2018; Svinkin et al. 2018);GRB 140619B is also considered to be a SGRB and maybe from a binary neutron stars merger (Kocevski et al. 2014;Ruffini et al. 2015); GRB 141222A with the negligible spectrallag is similar to SGRBs (Golenetskii et al. 2014). 
+
+
+From: https://www.aanda.org/articles/aa/pdf/2006/07/aa2803-05.pdf 
+920321 184.5 5.7 3.6 – – –920613 312.9 –55.6 4.6 129.0 1.02 1.86920708 308.3 –49.9 3.3 3.2 – –920628 317.8 –27.3 7.7 4.5 0.52 1.63920925 129.7 –58.7 5.0 – – –951107 148.8 39.8 4.0 43.5 0.69 1.45960221 47.8 –31.2 4.3 31.3 0.71 4.22961029 59.3 –52.6 3.3 40.4 1.03 8.44970508 132.4 80.6 2.3 23.1 1.28 3.96970514 67.6 –60.9 3.7 1.3 4.83 0.41971218 116.1 16.7 5.2 6.8 0.76 1.09971221 73.7 4.7 6.3 1.0 2.87 0.58980326 133.3 –18.6 2.1 – – –980425 291.9 –53.1 1.6 34.8 1.24 4.0980525 157.6 –17.8 6.8 39.6 1.40 0.38980703 359.1 12.0 0.5 411.6 2.93 62.2980910 195.1 –21.1 6.8 – – –990527 199.9 49.3 7.7 18.9 0.58 1.04990810 358.1 1.7 4.3 0.1 4.63 0.70991002 25.1 3.7 2.2 1.9 10.2 0.62991015 11.6 8.9 7.8 2.7 0.91 0.47991123 157.2 26.9 4.7 – 2.95 0.31000114 121.6 39.5 7.9 0.58 1.35 0.12000415 199.4 –29.9 7.4 0.22 2.72 0.40910423 196.7 –5.2 11.1 208.5 0.41 0.25950917 339.9 –1.47 8.2 – – –960925 29.3 –13.9 8.4 1.8 1.02 0.47961218 97.7 –21.7 12.7 8.7 0.40 0.91970907 346.9 11.2 8.3 0.9 7.24 2.35971013 167.0 2.7 8.8 12.3 – –971120 155.7 76.4 9.9 2.2 0.71 0.77980530 148.3 –27.3 8.7 21.3 0.67 0.79990719 224.5 10.8 10.9 23.2 0.82 0.23990902 58.2 62.5 15.5 19.2 0.42 0.85991021 346.3 –30.9 12.3 – 1.30 0.07000319 172.7 –13.8 9.8 0.08 1.75 0.10
